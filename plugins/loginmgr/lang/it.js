@@ -3,7 +3,7 @@
  *
  * Italian language file.
  *
- * Author: 
+ * Author: nicissimo97 (nici.regista@gmail.com)
  */
 
  theUILang.accLogin		= "Login";
@@ -11,8 +11,8 @@
  theUILang.accAccounts		= "Accounts";
  theUILang.accAuto		= "Autologin";
  theUILang.acAutoNone		= "None";
- theUILang.acAutoDay		= "Every day";
- theUILang.acAutoWeek		= "Every week";
- theUILang.acAutoMonth		= "Every month";
+ theUILang.acAutoDay		= "Ogni giorno";
+ theUILang.acAutoWeek		= "Ogni settimana";
+ theUILang.acAutoMonth		= "Ogni mese";
 
 thePlugins.get("loginmgr").langLoaded();
