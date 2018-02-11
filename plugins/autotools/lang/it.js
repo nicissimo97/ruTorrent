@@ -6,7 +6,7 @@
  * Author: 
  */
 
- var s_PluginFail			= "Plugin will not work.";
+ var s_PluginFail			= "Il Plugin non può funzionare.";
 
  theUILang.autotools			= "Autotools";
  theUILang.autotoolsEnableLabel 	= "Enable \"AutoLabel\" feature, Template:";
