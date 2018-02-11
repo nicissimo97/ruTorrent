@@ -7,14 +7,14 @@
  */
 
  theUILang.exFFMPEG		= "Screenshots";
- theUILang.exFrameWidth 	= "Frame width";
- theUILang.exFramesCount	= "Frames count";
- theUILang.exStartOffset	= "Start frame offset";
- theUILang.exBetween		= "Time between frames";
- theUILang.exSave		= "Save";
- theUILang.exSaveAll		= "Save all";
+ theUILang.exFrameWidth 	= "Larghezza frame";
+ theUILang.exFramesCount	= "Numero frame";
+ theUILang.exStartOffset	= "Offset frame iniziale";
+ theUILang.exBetween		= "Time tra i frame";
+ theUILang.exSave		= "Salva";
+ theUILang.exSaveAll		= "Salva tutti";
  theUILang.exScreenshot 	= "Screenshot";
- theUILang.exPlayInterval	= "Slideshow interval";
- theUILang.exImageFormat	= "Image format";
+ theUILang.exPlayInterval	= "Intervallo slideshow";
+ theUILang.exImageFormat	= "Formato immagine";
 
 thePlugins.get("screenshots").langLoaded();
