@@ -3,36 +3,36 @@
  *
  * Italian language file.
  *
- * Author: 
+ * Author: nicissimo97 (nici.regista@gmail.com)
  */
 
- theUILang.historyAddition	= "Addition";
- theUILang.historyDeletion	= "Deletion";
- theUILang.historyFinish	= "Finish";
+ theUILang.historyAddition	= "Aggiunto";
+ theUILang.historyDeletion	= "Rimosso";
+ theUILang.historyFinish	= "Completato";
  theUILang.historyLog		= "Log";
  theUILang.history		= "History";
- theUILang.historyLimit 	= "Maximum number of records";
- theUILang.seedingTime		= "Finished";
- theUILang.addTime		= "Added";
- theUILang.hstDeletePrompt	= "Do you really want to delete the selected record(s)?";
- theUILang.hstDelete		= "Delete record(s)";
- theUILang.Added		= "Added";
- theUILang.Finished		= "Finished";
- theUILang.Deleted		= "Deleted";
- theUILang.Time 		= "Time";
+ theUILang.historyLimit 	= "Numero massimo di voci";
+ theUILang.seedingTime		= "Completato";
+ theUILang.addTime		= "Aggiunto";
+ theUILang.hstDeletePrompt	= "Vuoi davvero eliminare le voci selezionate?";
+ theUILang.hstDelete		= "Elimina voce/i";
+ theUILang.Added		= "Aggiunto";
+ theUILang.Finished		= "Completato";
+ theUILang.Deleted		= "Rimosso";
+ theUILang.Time 		= "Ora";
  theUILang.Tracker		= "Tracker";
- theUILang.enableNotifications	= "Enable desktop notifications";
- theUILang.historyNotification	= "Desktop Notifications";
- theUILang.notifAutoClose	= "Autoclose notifications after";
+ theUILang.enableNotifications	= "Abilita le notifiche desktop";
+ theUILang.historyNotification	= "Notifiche Desktop";
+ theUILang.notifAutoClose	= "Chiudi automaticamente le notifiche";
  theUILang.notifTip		= {
- 				  false: "Your browser doesn't support desktop notifications. Try to use another browser, for example, Google Chrome.",
+ 				  false: "Il tuo browser non supporta le notifiche desktop. Prova ad utilizzare un altro browser come Google Chrome.",
  				  "granted": "",
- 				  "default": "Your browser supports desktop notifications. Press button below to enable it.",
- 				  "denied": "Your browser supports desktop notifications, but you've disabled it for this site. Close this dialog and use browser options to enable desktop notifications.",
+ 				  "default": "Il tuo browser supporta le notifiche desktop. Attivale con il bottone sottostante.",
+ 				  "denied": "Il tuo browser supporta le notifiche desktop, ma le hai disattivare per questo sito. Chiudi la finestra e attiva le notifiche desktop dal browser.",
  				  };
- theUILang.pushbulletNotification = "PushBullet notifications";
+ theUILang.pushbulletNotification = "Notifiche PushBullet";
  theUILang.pushbulletKey	= "PushBullet Access Token";
- theUILang.turnNotifyOn 	= "Turn notifications on";
- theUILang.turnNotifyOff	= "Turn notifications off";
+ theUILang.turnNotifyOn 	= "Abilita le notifiche";
+ theUILang.turnNotifyOff	= "Disabilita le notifiche";
 
 thePlugins.get("history").langLoaded();
