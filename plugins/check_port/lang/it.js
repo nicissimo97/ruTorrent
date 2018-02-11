@@ -3,14 +3,14 @@
  *
  * Italian language file.
  *
- * Author: 
+ * Author: Nicolas D'Amuri (nicissimo97, nici.regista@gmail.com)
  */
 
- theUILang.checkPort		= "Check Port Status";
+ theUILang.checkPort		= "Controlla Stato Porte";
  theUILang.portStatus		= [
- 				  "Port status is unknown",
- 				  "Port is closed",
- 				  "Port is open"
+ 				  "Stato porta sconosciuto",
+ 				  "La Porta è chiusa",
+ 				  "La Porta è aperta"
  				  ];
 
 thePlugins.get("check_port").langLoaded();
