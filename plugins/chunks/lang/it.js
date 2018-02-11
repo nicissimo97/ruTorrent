@@ -7,12 +7,12 @@
  */
 
  theUILang.Chunks		= "Chunks";
- theUILang.cAvail		= "Availability";
- theUILang.cDownloaded		= "Downloaded";
- theUILang.cMode		= "Mode";
- theUILang.chunksCount		= "Chunks count";
- theUILang.chunkSize		= "Chunk size";
- theUILang.cLegend		= "Legend";
- theUILang.cLegendVal		= [ "4 chunks per cell", "1 chunk per cell" ];
+ theUILang.cAvail		= "Disponibilità";
+ theUILang.cDownloaded		= "Scaricati";
+ theUILang.cMode		= "Visualizza";
+ theUILang.chunksCount		= "Numero Chunks";
+ theUILang.chunkSize		= "Dimensione Chunk";
+ theUILang.cLegend		= "Legenda";
+ theUILang.cLegendVal		= [ "4 chunks per cella", "1 chunk per cella" ];
 
 thePlugins.get("chunks").langLoaded();
