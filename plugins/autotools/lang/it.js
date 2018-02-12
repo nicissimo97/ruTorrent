@@ -3,26 +3,26 @@
  *
  * Italian language file.
  *
- * Author: 
+ * Author: nicissimo97 (nici.regista@gmail.com) 
  */
 
  var s_PluginFail			= "Il Plugin non può funzionare.";
 
  theUILang.autotools			= "Autotools";
- theUILang.autotoolsEnableLabel 	= "Enable \"AutoLabel\" feature, Template:";
- theUILang.autotoolsEnableMove		= "Enable \"AutoMove\" if torrent's label matches filter";
- theUILang.autotoolsPathToFinished	= "Path to finished downloads";
- theUILang.autotoolsEnableWatch 	= "Enable \"AutoWatch\" feature";
- theUILang.autotoolsPathToWatch 	= "Path to base watch directory";
- theUILang.autotoolsWatchStart		= "Start download automatically";
- theUILang.autotoolsNoPathToFinished	= "Autotools plugin: path to finished downloads is not set. " + s_PluginFail;
- theUILang.autotoolsNoPathToWatch	= "Autotools plugin: path to base watch directory is not set. " + s_PluginFail;
- theUILang.autotoolsFileOpType		= "Operation type";
- theUILang.autotoolsFileOpMove		= "Move";
+ theUILang.autotoolsEnableLabel 	= "Attiva funzione \"AutoLabel\", Template:";
+ theUILang.autotoolsEnableMove		= "Attiva \"AutoMove\" se l'etichetta corrisponde al filtro";
+ theUILang.autotoolsPathToFinished	= "Directory download completati";
+ theUILang.autotoolsEnableWatch 	= "Attiva funzione \"AutoWatch\"";
+ theUILang.autotoolsPathToWatch 	= "Directory watch";
+ theUILang.autotoolsWatchStart		= "Inzia download automaticamente";
+ theUILang.autotoolsNoPathToFinished	= "Autotools plugin: la directory download completati non è impostata. " + s_PluginFail;
+ theUILang.autotoolsNoPathToWatch	= "Autotools plugin: la directory watch non è impostata. " + s_PluginFail;
+ theUILang.autotoolsFileOpType		= "Tipo operazione";
+ theUILang.autotoolsFileOpMove		= "Sposta";
  theUILang.autotoolsFileOpHardLink 	= "Hard link";
- theUILang.autotoolsFileOpCopy		= "Copy";
+ theUILang.autotoolsFileOpCopy		= "Copia";
  theUILang.autotoolsFileOpSoftLink	= "Soft link";
- theUILang.autotoolsAddLabel		= "Add torrent's label to path";
- theUILang.autotoolsAddName		= "Add torrent's name to path";
+ theUILang.autotoolsAddLabel		= "Aggiungi l'etichetta del torrent al percorso";
+ theUILang.autotoolsAddName		= "Aggiungi il nome del torrent al percorso";
 
 thePlugins.get("autotools").langLoaded();
