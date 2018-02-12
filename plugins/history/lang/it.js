@@ -10,7 +10,7 @@
  theUILang.historyDeletion	= "Rimosso";
  theUILang.historyFinish	= "Completato";
  theUILang.historyLog		= "Log";
- theUILang.history		= "History";
+ theUILang.history		= "Cronologia";
  theUILang.historyLimit 	= "Numero massimo di voci";
  theUILang.seedingTime		= "Completato";
  theUILang.addTime		= "Aggiunto";
