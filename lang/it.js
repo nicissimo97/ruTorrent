@@ -156,7 +156,6 @@ var theUILang =
  EnableTracker			: "Abilita",
  ClientVersion			: "Client",
  Flags				: "Flags",
- 
  ReqTimeout			: "Richiedi il timeout",
  GetTrackerMessage		: "Ricevi messaggi dal tracker",
  Help				: "Aiuto",
