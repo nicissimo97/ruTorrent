@@ -3,10 +3,10 @@
  *
  * Italian language file.
  *
- * Author: 
+ * Author: nicissimo97 (nici.regista@gmail.com)
  */
 
- theUILang.getSource		= "Get .torrent";
- theUILang.cantFindTorrent	= "Source torrent file for this download not found.";
+ theUILang.getSource		= "Scarica .torrent";
+ theUILang.cantFindTorrent	= "File torrent non trovato.";
 
 thePlugins.get("source").langLoaded();
