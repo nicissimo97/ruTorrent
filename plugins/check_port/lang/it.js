@@ -3,7 +3,7 @@
  *
  * Italian language file.
  *
- * Author: Nicolas D'Amuri (nicissimo97, nici.regista@gmail.com)
+ * Author: nicissimo97 (nici.regista@gmail.com)
  */
 
  theUILang.checkPort		= "Controlla Stato Porte";
