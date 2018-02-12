@@ -3,7 +3,7 @@
  *
  * Italian language file.
  *
- * Author: 
+ * Author: nicissimo97 (nici.regista@gmail.com)
  */
 
  theUILang.mnu_create			= "Crea Torrent...";
