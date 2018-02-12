@@ -6,14 +6,14 @@
  * Author: 
  */
 
- theUILang.checkTorrent 	= "Check for Update";
+ theUILang.checkTorrent 	= "Controlla gli Aggiornamenti";
  theUILang.chkHdr		= "Torrent Update Check";
- theUILang.checkedAt		= "Last Checked";
- theUILang.checkedResult	= "Result";
+ theUILang.checkedAt		= "Ultimo controllo";
+ theUILang.checkedResult	= "Risultato";
  theUILang.chkResults		= [
- 				  "In progress",
- 				  "Updated",
- 				  "No update required",
+ 				  "In corso",
+ 				  "Aggiornato",
+ 				  "Nessuno aggiornamento necessario",
  				  "Probably deleted",
  				  "Error accessing the tracker",
  				  "Error interacting with rTorrent",
